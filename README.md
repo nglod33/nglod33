@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nate Glod
 - 👀 I’m interested in backend development and DevOps
-- 🌱 I’m currently learning Julia and AWS development.
+- 🌱 I’m currently desktop app development with Java and Electron.
 - 💞️ I’m looking to collaborate on Python software
 - 📫 How to reach me nglod33 at gmail dot com
