@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nate Glod
 - 👀 I’m interested in backend development and DevOps/SRE
-- 🌱 I’m currently working at Meta as a PE.
-- 💞️ I’m looking to collaborate on Python software
+- 🌱 I’m currently working at Tiktok as an SRE.
 - 📫 How to reach me: nglod33 at gmail dot com
