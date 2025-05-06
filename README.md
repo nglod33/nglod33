@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nate Glod
 - 👀 I’m interested in backend development and DevOps/SRE
-- 🌱 I’m currently working at Twitter as an SRE.
+- 🌱 I’m currently working at Tradeweb as an SRE.
 - 📫 How to reach me: nglod33 at gmail dot com
